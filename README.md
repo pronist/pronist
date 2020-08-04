@@ -28,8 +28,8 @@ I am studying to **Blockchain**.
 
 #### Kakao Tistory x &
 
-* **[Tidory Framework](https://tidory.com) (2017.11 -)**
-* **[Tines.kr](https://github.com/pronist/tines.kr) (Tistory Neighborhood Services) (2018/11 - 2019/01)**
+* [Tidory Framework](https://tidory.com) (2017.11 -)
+* [Tines.kr](https://github.com/pronist/tines.kr) (Tistory Neighborhood Services) (2018/11 - 2019/01)
 
 ### Lectures
 
