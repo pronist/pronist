@@ -12,17 +12,39 @@ Hello, I am a **Developer** that interested in many technologies such as **Web, 
 
 *...As is*
 
-* HTML5, CSS3
-* Javascript ES6+, Vuejs, jQuery
-* C/C++
-* PHP 7+, Laravel
+![html5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![stylus](http://img.shields.io/badge/-Stylus-333333?style=flat-square&logo=stylus&logoColor=white)
+![uikit](http://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
+![javascript](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![vue.js](http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![nuxt.js](http://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+![jquery](http://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![electron](http://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![webpack](http://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
+![node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![npm](http://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![laravel](http://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![lumen](http://img.shields.io/badge/-Lumen-FF2D20?style=flat-square&logo=lumen&logoColor=white)
+![composer](http://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![linux](http://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![mysql](http://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![travis-ci](http://img.shields.io/badge/-Travis%20CI-4479A1?style=flat-square&logo=travis-ci&logoColor=white)
+![visual-studio-code](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 *...To be*
 
-I am studying to **Blockchain**.
-
-* Ethereum, Klaytn, Hyperledger Fabric...
-* Solidity, Golang...
+![bitcoin](http://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![ethereum](http://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![svelte](http://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![elasticsearch](http://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![redis](http://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![graphql](http://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![aws](http://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### Projects
 
