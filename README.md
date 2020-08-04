@@ -28,9 +28,7 @@ I am studying to **Blockchain**.
 
 #### Kakao Tistory x &
 
-* **Tidory Framework (2017.11 -)**
-  * [Tidory Framework](https://tidory.com) Development Maintainer
-  * Tistory Open API, Tistory Skin API
+* **[Tidory Framework](https://tidory.com) (2017.11 -)**
 * **[Tines.kr](https://github.com/pronist/tines.kr) (Tistory Neighborhood Services) (2018/11 - 2019/01)**
 
 ### Lectures
