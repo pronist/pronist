@@ -3,7 +3,7 @@
 Hello, I am a **Developer** that interested in many technologies such as **Web, Blockchain**.
 
 * **Computer engineering, Business informatics** bachelor's degree.
-* Licenses: [Infomation Processing Lv3](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320), [SQL Developer](https://www.dataq.or.kr/www/sub/a_04.do), [ITQ QA Master](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectItqinfotchnlgyqc.do), [Infomation Processing Lv1](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921)
+* Licenses: [Information Processing Lv3](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320), [SQL Developer](https://www.dataq.or.kr/www/sub/a_04.do), [ITQ QA Master](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectItqinfotchnlgyqc.do), [Information Processing Lv1](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921)
 * Communities: [Tistory](https://pronist.tistory.com), [Brunch](https://brunch.co.kr/@pronist), [Github](https://github.com/pronist)
 
 [![SangWoo Jeong's github stats](https://github-readme-stats.vercel.app/api?username=pronist)](https://github.com/anuraghazra/github-readme-stats)
