@@ -10,7 +10,7 @@ Hello, I am a **Developer** that interested in many technologies such as **Web, 
 
 ### Skills
 
-*...As is*
+#### *...As is*
 
 ![html5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@ Hello, I am a **Developer** that interested in many technologies such as **Web, 
 ![travis-ci](http://img.shields.io/badge/-Travis%20CI-4479A1?style=flat-square&logo=travis-ci&logoColor=white)
 ![visual-studio-code](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-*...To be*
+#### *...To be*
 
 ![bitcoin](http://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![ethereum](http://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
