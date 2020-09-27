@@ -4,8 +4,8 @@ Hello, I am a **Developer** that interested in many technologies such as **Web, 
 
 * **Computer engineering, Business informatics** bachelor's degree.
 * **Licenses**: [Information Processing Lv3](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320), [SQL Developer](https://www.dataq.or.kr/www/sub/a_04.do), [ITQ QA Master](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectItqinfotchnlgyqc.do), [Information Processing Lv1](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921)
-* **Communities**: [Tistory](https://pronist.tistory.com), [Brunch](https://brunch.co.kr/@pronist), [Github](https://github.com/pronist)
-* **Lectures**: [PHP 7+ Programming: Reboot](https://www.inflearn.com/course/php7-reboot), [PHP 7+ Programming: OOP](https://www.inflearn.com/course/php7-oop), [Tistory Skin: Tidory Framework](https://www.inflearn.com/course/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+* **Communities**: [Github](https://github.com/pronist), [Tistory](https://pronist.tistory.com), [Brunch](https://brunch.co.kr/@pronist)
+* **Lectures**: [PHP 8: New Features](https://www.inflearn.com/course/php8-new-features), [PHP 7+ Programming: OOP](https://www.inflearn.com/course/php7-oop), [PHP 7+ Programming: Reboot](https://www.inflearn.com/course/php7-reboot), [Tistory Skin: Tidory Framework](https://www.inflearn.com/course/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 
 ![html5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
