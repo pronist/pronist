@@ -1,13 +1,6 @@
-### About Me
+## About Me
 
-Hi, I am a **Software Developer** that interested in many technologies such as **Web, Blockchain** from Republic of Korea.
-
-* **Computer Engineering, Business Informatics** Bachelor's Degree.
-* **Licenses**: [Information Processing Lv3](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320), [SQL Developer](https://www.dataq.or.kr/www/sub/a_04.do), [ITQ OA Master](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectItqinfotchnlgyqc.do), [Information Processing Lv1](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921)
-* **Communities**: [Github](https://github.com/pronist), [Blog](https://pronist.tistory.com), [Essay](https://brunch.co.kr/@pronist)
-* **Lectures**: [PHP 8: New Features](https://www.inflearn.com/course/php8-new-features), [PHP 7+ Programming: OOP](https://www.inflearn.com/course/php7-oop), [PHP 7+ Programming: Reboot](https://www.inflearn.com/course/php7-reboot), [Tistory Skin: Tidory Framework](https://www.inflearn.com/course/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
-
-### Languages and Tools
+<img align="right" alt="SangWoo Jeong's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=pronist&show_icons=true">
 
 ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -17,5 +10,9 @@ Hi, I am a **Software Developer** that interested in many technologies such as *
 ![javascript](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![vue.js](http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-[![SangWoo Jeong's github stats](https://github-readme-stats.vercel.app/api?username=pronist&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronist&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I am a **Software Developer** that interested in many technologies such as **Web, Blockchain** from Republic of Korea.
+
+* **Computer Engineering, Business Informatics** Bachelor's Degree.
+* **Licenses**: [Information Processing Lv3](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320), [SQL Developer](https://www.dataq.or.kr/www/sub/a_04.do), [ITQ OA Master](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectItqinfotchnlgyqc.do), [Information Processing Lv1](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921)
+* **Communities**: [Github](https://github.com/pronist), [Blog](https://pronist.tistory.com), [Essay](https://brunch.co.kr/@pronist)
+* **Lectures**: [PHP 8: New Features](https://www.inflearn.com/course/php8-new-features), [PHP 7+ Programming: OOP](https://www.inflearn.com/course/php7-oop), [PHP 7+ Programming: Reboot](https://www.inflearn.com/course/php7-reboot), [Tistory Skin: Tidory Framework](https://www.inflearn.com/course/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
