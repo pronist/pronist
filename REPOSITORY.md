@@ -1,22 +1,24 @@
-# REPOSITORY
+# REPOSITORY.md
 
-this contains my projects which are only **public** repositories.
+This contains my projects which are only **Public**. These are not include **Private, Forked and [Github Profile Readme](https://github.com/pronist/pronist).**
 
 ## Table of Contents
 
-- [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Study-&-Research)
-  - [Computer Science](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Computer-Science)
-    - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Algorithm)
-  - [Go](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Go)
-  - [Blockchain](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Blockchain)
-- [Online Class](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Online-Class)
-  - [PHP](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#PHP)
-- [Tistory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Tistory)
-  - [Skin](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Skin)
-  - [Tidory Framework](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Tidory-Framework)
-  - [API](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#API)
-  - [Web & Desktop Application](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Web-&-Desktop-Application)
-- [Misc.](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Misc.)
+- [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#study--research)
+  - [Computer Science](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#computer-science)
+    - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#algorithm)
+  - [Go](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#go)
+  - [Blockchain](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#blockchain)
+- [Online Class](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#online-Class)
+  - [PHP](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#php)
+- [Tistory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory)
+  - [Skin](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#skin)
+  - [Tidory Framework](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tidory-framework)
+  - [API](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#api)
+  - [Web & Desktop Application](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#web--desktop-application)
+- [Misc.](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#misc)
+  - [Project Template](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#project-template)
+  - [Library](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#library)
 
 ## Study & Research
 
@@ -24,8 +26,8 @@ this contains my projects which are only **public** repositories.
 
 #### Algorithm
 
-- [pronist/ds](https://github.com/pronist/ds) - Data Structure in C
-- [pronist/information-procssing-algorithms](https://github.com/pronist/information-processing-algorithms) - [~2019] Information Processing Algorithms
+- [pronist/ds](https://github.com/pronist/ds) - (CS; Algorithm) Data Structure in C
+- [pronist/information-procssing-algorithms](https://github.com/pronist/information-processing-algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms
 
 ### Go
 
@@ -33,7 +35,7 @@ this contains my projects which are only **public** repositories.
 - [pronist/headfirstgo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
 - [pronist/gopl](https://github.com/pronist/gopl) - (Learning Go) with The Go Programming Language
 - [pronist/go-techniques](https://github.com/pronist/go-techniques) - (Learning Go) with Go Techniques
-- [pronist/go-concurrency](https://github.com/pronist/go-concurrency) - (Learning Concurrency) with Concurrency In Go
+- [pronist/go-concurrency](https://github.com/pronist/go-concurrency) - (Learning Go; Concurrency) with Concurrency In Go
 
 ### Blockchain
 
@@ -47,10 +49,10 @@ These are for making Online Classes.
 
 ### PHP
 
-- [pronist/php7-lecture](https://github.com/pronist/php7-lecture) - Example codes for PHP 7+ Programming.lec
-- [pronist/php7-web-board-example](https://github.com/pronist/php7-web-board-example) - PHP Blog Application Examples
-- [pronist/eclair](https://github.com/pronist/eclair) - Eclair is a Simple PHP micro framework
-- [pronist/php8-feature-examples](https://github.com/pronist/php8-feature-examples) - This Repo contains PHP 8 feature Examples.
+- [pronist/php7-lecture](https://github.com/pronist/php7-lecture) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec
+- [pronist/php7-web-board-example](https://github.com/pronist/php7-web-board-example) - (Lecture for PHP) PHP Blog Application Examples
+- [pronist/eclair](https://github.com/pronist/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework
+- [pronist/php8-feature-examples](https://github.com/pronist/php8-feature-examples) - (Lecture for PHP) This Repo contains PHP 8 feature Examples.
 
 ## Tistory
 
@@ -62,7 +64,7 @@ These are for making Online Classes.
 
 Tidory is a Tistory Skin Framework written by Me.
 
-*― Tistory Skin Framework, Tidory*
+<https://github.com/tidory> *― Tistory Skin Framework, Tidory*
 
 - [tidory/tidory](https://github.com/tidory/tidory) - a Template for Tidory framework
 - [tidory/tidory.com](https://github.com/tidory/tidory.com) - a Website for Tidory framework
@@ -81,9 +83,14 @@ Tidory is a Tistory Skin Framework written by Me.
 - [pronist/tines.kr](https://github.com/pronist/tines.kr) - Tistory Neighborhood Services, Tines
 - [pronist/tistory-backup](https://github.com/pronist/tistory-backup) - a Desktop Application for posts backup of Tistroy blog
 
-### Misc.
+## Misc.
+
+### Project Template
 
 - [pronist/nuxt-express-typescript-template](https://github.com/pronist/nuxt-express-typescript-template) - a Template for Nuxt.js with Express, Typescript
 - [pronist/php-webpack-vue-template](https://github.com/pronist/php-webpack-vue-template) - PHP with Vue.js 2 + Webpack 4 Template
-- [pronist/history-router](https://github.com/pronist/history-router) - Router for history)
+
+### Library
+
+- [pronist/history-router](https://github.com/pronist/history-router) - Router for history
 - [pronist/pager](https://github.com/pronist/pager) - Pagination (Pager) for PHP
