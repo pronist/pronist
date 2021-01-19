@@ -5,13 +5,12 @@ This contains my projects which are only **Public**. These are not include **Pri
 ## Table of Contents
 
 - [Tistory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory)
-  - [Skin](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#skin)
   - [Tidory Framework](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tidory-framework)
   - [API](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#api)
   - [Web & Desktop Application](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#web--desktop-application)
+  - [Theme](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#theme)
 - [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#study--research)
-  - [Computer Science](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#computer-science)
-    - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#algorithm)
+  - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#algorithm)
   - [Go](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#go)
   - [Blockchain](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#blockchain)
 - [Lecture](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#lecture)
@@ -22,9 +21,7 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Tistory
 
-### Skin
-
-[pronist/hELLO](https://github.com/pronist/hELLO) - hELLO is a Tistory Skin
+Tistory is a **Blog service** such as github page in Korea. Projects are related to it. These contain Framework, API, Web & Desktop Application, and Theme.
 
 ### Tidory Framework
 
@@ -49,11 +46,13 @@ Tidory is a Tistory Skin Framework written by Me.
 - [pronist/tines.kr](https://github.com/pronist/tines.kr) - Tistory Neighborhood Services, Tines
 - [pronist/tistory-backup](https://github.com/pronist/tistory-backup) - a Desktop Application for posts backup of Tistroy blog
 
+### Theme
+
+- [pronist/hELLO](https://github.com/pronist/hELLO) - hELLO is a Tistory Skin
+
 ## Study & Research
 
-### Computer Science
-
-#### Algorithm
+### Algorithm
 
 - [pronist/ds](https://github.com/pronist/ds) - (CS; Algorithm) Data Structure in C
 - [pronist/information-procssing-algorithms](https://github.com/pronist/information-processing-algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms
