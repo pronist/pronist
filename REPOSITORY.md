@@ -16,8 +16,8 @@ This contains my projects which are only **Public**. These are not include **Pri
 - [Lecture](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#lecture)
   - [PHP](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#php)
 - [Miscellaneous](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#miscellaneous)
-  - [Boilerplate Code](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#boilerplate-code)
   - [Library](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#library)
+  - [Boilerplate Code](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#boilerplate-code)
 
 ## Tistory
 
@@ -56,6 +56,7 @@ Tidory is a Tistory Skin Framework written by Me.
 
 - [pronist/ds](https://github.com/pronist/ds) - (CS; Algorithm) Data Structure in C
 - [pronist/information-procssing-algorithms](https://github.com/pronist/information-processing-algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms
+- [pronist/al.go](https://github.com/pronist/al.go) - (CS; Algorithm) Algorithms in Go (for Korean)
 
 ### Go
 
@@ -84,12 +85,12 @@ These are for making online **lectures**.
 
 ## Miscellaneous
 
-### Boilerplate Code
-
-- [pronist/nuxt-express-typescript-template](https://github.com/pronist/nuxt-express-typescript-template) - a Template for Nuxt.js with Express, Typescript
-- [pronist/php-webpack-vue-template](https://github.com/pronist/php-webpack-vue-template) - PHP with Vue.js 2 + Webpack 4 Template
-
 ### Library
 
 - [pronist/history-router](https://github.com/pronist/history-router) - Router for history
 - [pronist/pager](https://github.com/pronist/pager) - Pagination (Pager) for PHP
+
+### Boilerplate Code
+
+- [pronist/nuxt-express-typescript-template](https://github.com/pronist/nuxt-express-typescript-template) - a Template for Nuxt.js with Express, Typescript
+- [pronist/php-webpack-vue-template](https://github.com/pronist/php-webpack-vue-template) - PHP with Vue.js 2 + Webpack 4 Template
