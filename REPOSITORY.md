@@ -8,7 +8,7 @@ This contains my projects which are only **Public**. These are not include **Pri
   - [Tidory Framework](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tidory-framework)
   - [API](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#api)
   - [Web & Desktop Application](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#web--desktop-application)
-  - [Theme](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#theme)
+  - [Skin](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#skin)
 - [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#study--research)
   - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#algorithm)
   - [Go](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#go)
@@ -46,7 +46,7 @@ Tidory is a Tistory Skin Framework written by Me.
 - [pronist/tines.kr](https://github.com/pronist/tines.kr) - Tistory Neighborhood Services, Tines
 - [pronist/tistory-backup](https://github.com/pronist/tistory-backup) - a Desktop Application for posts backup of Tistroy blog
 
-### Theme
+### Skin
 
 - [pronist/hELLO](https://github.com/pronist/hELLO) - hELLO is a Tistory Skin
 
@@ -62,7 +62,7 @@ Tidory is a Tistory Skin Framework written by Me.
 
 - [pronist/go-tour](https://github.com/pronist/go-tour) - (Learning Go) with Go Tutorials
 - [pronist/headfirstgo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
-- [pronist/gopl](https://github.com/pronist/gopl) - (Learning Go) with The Go Programming Language
+- [pronist/go](https://github.com/pronist/go) - (Learning Go) with The Go Programming Language
 - [pronist/go-techniques](https://github.com/pronist/go-techniques) - (Learning Go) with Go Techniques
 - [pronist/go-concurrency](https://github.com/pronist/go-concurrency) - (Learning Go; Concurrency) with Concurrency In Go
 
