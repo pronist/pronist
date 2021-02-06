@@ -64,13 +64,10 @@ Tidory is a Tistory Skin Framework written by Me.
 - [pronist/headfirstgo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
 - [pronist/go](https://github.com/pronist/go) - (Learning Go) with The Go Programming Language
 - [pronist/go-techniques](https://github.com/pronist/go-techniques) - (Learning Go) with Go Techniques
-- [pronist/go-concurrency](https://github.com/pronist/go-concurrency) - (Learning Go; Concurrency) with Concurrency In Go
 
 ### Blockchain
 
-- [pronist/go-blockchain](https://github.com/pronist/go-blockchain) - (Learning Blockchain) with blockchain_go
 - [pronist/solidity-essesntials](https://github.com/pronist/solidity-essesntials) - (Learning Blockchain; Solidity) with Solidity Essesntials
-- [pronist/mastering-ethereum](https://github.com/pronist/mastering-ethereum) - (Learning Blockchain; Ethereum) with Mastering Ethereum
 
 ## Lecture
 
