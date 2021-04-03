@@ -21,7 +21,7 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Tistory
 
-Tistory is a **Blog service** such as github page in Korea. Projects are related to it. These contain Framework, API, Web & Desktop Application, and Theme.
+Tistory is a serivce for blogging. Projects are related to it. These contain Framework, API, Web & Desktop Application, and Theme.
 
 ### Tidory Framework
 
@@ -67,6 +67,7 @@ Tidory is a Tistory Skin Framework written by Me.
 
 ### Blockchain
 
+- [pronist/blockchain_go](https://github.com/pronist/blockchain_go) - (Learning Blockchain); Blockchain in Go
 - [pronist/solidity-essesntials](https://github.com/pronist/solidity-essesntials) - (Learning Blockchain; Solidity) with Solidity Essesntials
 
 ## Lecture
@@ -90,4 +91,3 @@ These are for making online **lectures**.
 ### Boilerplate Code
 
 - [pronist/nuxt-express-typescript-template](https://github.com/pronist/nuxt-express-typescript-template) - a Template for Nuxt.js with Express, Typescript
-- [pronist/php-webpack-vue-template](https://github.com/pronist/php-webpack-vue-template) - PHP with Vue.js 2 + Webpack 4 Template
