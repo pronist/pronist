@@ -8,8 +8,8 @@ My Repositories are **[here](https://github.com/pronist/pronist/blob/master/REPO
 ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![javascript](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![html](http://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html&logoColor=white)
-![css](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![html](http://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![css](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ![Sangwoo Jeong's github stats](https://github-readme-stats.vercel.app/api?username=pronist&show_icons=true&theme=dracula&hide_border=1)
 
