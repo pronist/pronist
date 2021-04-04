@@ -43,8 +43,8 @@ Tidory is a Tistory Skin Framework written by Me.
 
 ### Web & Desktop Application
 
-- [pronist/tines.kr](https://github.com/pronist/tines.kr) - Tistory Neighborhood Services, Tines
 - [pronist/tistory-backup](https://github.com/pronist/tistory-backup) - a Desktop Application for posts backup of Tistroy blog
+- [pronist/tines.kr](https://github.com/pronist/tines.kr) - Tistory Neighborhood Services, Tines
 
 ### Skin
 
