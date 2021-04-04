@@ -54,20 +54,19 @@ Tidory is a Tistory Skin Framework written by Me.
 
 ### Algorithm
 
+- [pronist/go-algorithm](https://github.com/pronist/go-algorithm) - (CS; Algorithm) Algorithms in Go
 - [pronist/ds](https://github.com/pronist/ds) - (CS; Algorithm) Data Structure in C
 - [pronist/information-procssing-algorithms](https://github.com/pronist/information-processing-algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms
-- [pronist/al.go](https://github.com/pronist/al.go) - (CS; Algorithm) Algorithms in Go (for Korean)
 
 ### Go
 
-- [pronist/go-tour](https://github.com/pronist/go-tour) - (Learning Go) with Go Tutorials
-- [pronist/headfirstgo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
-- [pronist/go](https://github.com/pronist/go) - (Learning Go) with The Go Programming Language
 - [pronist/go-techniques](https://github.com/pronist/go-techniques) - (Learning Go) with Go Techniques
+- [pronist/headfirstgo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
+- [pronist/go-tour](https://github.com/pronist/go-tour) - (Learning Go) with Go Tutorials
 
 ### Blockchain
 
-- [pronist/blockchain_go](https://github.com/pronist/blockchain_go) - (Learning Blockchain); Blockchain in Go
+- [pronist/go-blockchain](https://github.com/pronist/go-blockchain) - (Learning Blockchain); Blockchain in Go
 - [pronist/solidity-essesntials](https://github.com/pronist/solidity-essesntials) - (Learning Blockchain; Solidity) with Solidity Essesntials
 
 ## Lecture
@@ -76,10 +75,10 @@ These are for making online **lectures**.
 
 ### PHP
 
-- [pronist/php7-lecture](https://github.com/pronist/php7-lecture) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec
-- [pronist/php7-web-board-example](https://github.com/pronist/php7-web-board-example) - (Lecture for PHP) PHP Blog Application Examples
-- [pronist/eclair](https://github.com/pronist/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework
 - [pronist/php8-feature-examples](https://github.com/pronist/php8-feature-examples) - (Lecture for PHP) This Repo contains PHP 8 feature Examples.
+- [pronist/eclair](https://github.com/pronist/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework
+- [pronist/php7-web-board-example](https://github.com/pronist/php7-web-board-example) - (Lecture for PHP) PHP Blog Application Examples
+- [pronist/php7-lecture](https://github.com/pronist/php7-lecture) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec
 
 ## Miscellaneous
 
