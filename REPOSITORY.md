@@ -4,20 +4,36 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Table of Contents
 
-- [Tistory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory)
-  - [Tidory Framework](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tidory-framework)
-  - [API](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#api)
-  - [Web & Desktop Application](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#web--desktop-application)
-  - [Skin](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#skin)
 - [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#study--research)
   - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#algorithm)
   - [Go](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#go)
   - [Blockchain](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#blockchain)
-- [Lecture](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#lecture)
-  - [PHP](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#php)
-- [Miscellaneous](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#miscellaneous)
-  - [Library](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#library)
-  - [Boilerplate Code](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#boilerplate-code)
+- [Tistory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory)
+  - [Tidory Framework](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tidory-framework)
+  - [Tistory Project](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory-project)
+    - [Theme](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#theme)
+    - [API](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#api)
+    - [Web & Desktop Application](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#web--desktop-application)
+- [PHP Lecture](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#php-lecture)
+
+## Study & Research
+
+### Algorithm
+
+- [pronist/Algorithm](https://github.com/pronist/Algorithm) - (CS; Algorithm) Algorithms in Go
+- [pronist/DS](https://github.com/pronist/DS) - (CS; Algorithm) Data Structure in C
+- [pronist/Information-Procssing-Algorithms](https://github.com/pronist/Information-Procssing-Algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms
+
+### Go
+
+- [pronist/Techniques_Go](https://github.com/pronist/go-techniques) - (Learning Go) with Go Techniques
+- [pronist/HeadFirstGo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
+- [pronist/Tour_Go](https://github.com/pronist/Tour_Go) - (Learning Go) with Go Tutorials
+
+### Blockchain
+
+- [pronist/Blockchain_Go](https://github.com/pronist/Blockchain_Go) - (Learning Blockchain); Blockchain in Go
+- [pronist/Solidity-Essesntials](https://github.com/pronist/SolidityEssesntials) - (Learning Blockchain; Solidity) with Solidity Essesntials
 
 ## Tistory
 
@@ -25,9 +41,9 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 
 ### Tidory Framework
 
-Tidory is a Tistory Skin Framework written by Me.
+**Tidory** is a Tistory Skin Framework composed by [@pronist](https://github.com/pronist).
 
-<https://github.com/tidory> *― Tistory Skin Framework, Tidory*
+<https://github.com/tidory> *― Tistory Skin Framework, Tidory (Composed by [@pronist](https://github.com/pronist)*
 
 - [tidory/tidory](https://github.com/tidory/tidory) - a Template for Tidory framework
 - [tidory/tidory.com](https://github.com/tidory/tidory.com) - a Website for Tidory framework
@@ -35,58 +51,32 @@ Tidory is a Tistory Skin Framework written by Me.
 - [tidory/create-tidory-app](https://github.com/tidory/create-tidory-app) - Downloading Tidory Framework template from github
 - [tidory/example](https://github.com/tidory/example) - a Example package for Tidory Framework
 
-### API
+### Tistory Project
 
-- [pronist/tistory-skin](https://github.com/pronist/tistory-skin) - Tistory Skin API for Javascript -- Unofficial
-- [pronist/tistory.js](https://github.com/pronist/tistory.js) - Tistory API for Javascript, Support Node.js, and Browser
-- [pronist/tistory.php](https://github.com/pronist/tistory.php) - Tistory API for PHP
+<https://github.com/tistory-project> *― Tistory Project, Composed by [@pronist](https://github.com/pronist)*
 
-### Web & Desktop Application
+#### Theme
 
-- [pronist/tistory-backup](https://github.com/pronist/tistory-backup) - a Desktop Application for posts backup of Tistroy blog
-- [pronist/tines.kr](https://github.com/pronist/tines.kr) - Tistory Neighborhood Services, Tines
+- [tistory-project/hELLO](https://github.com/tistory-project/hELLO) - hELLO is a Simple and Clean, Responsive theme for TISTORY
 
-### Skin
+#### API
 
-- [pronist/hELLO](https://github.com/pronist/hELLO) - hELLO is a Tistory Skin
+- [tistory-project/tistory-skin](https://github.com/tistory-project/tistory-skin) - Tistory Skin API for Javascript -- Unofficial
+- [tistory-project/tistory.js](https://github.com/tistory-project/tistory.js) - Tistory API for Javascript, Support Node.js, and Browser
+- [tistory-project/tistory.php](https://github.com/tistory-project/tistory.php) - Tistory API for PHP
 
-## Study & Research
+#### Web & Desktop Application
 
-### Algorithm
+- [tistory-project/tistory-backup](https://github.com/tistory-project/tistory-backup) - a Desktop Application for posts backup of Tistroy blog
+- [tistory-project/tines.kr](https://github.com/tistory-project/tines.kr) - Tistory Neighborhood Services, Tines
 
-- [pronist/go-algorithm](https://github.com/pronist/go-algorithm) - (CS; Algorithm) Algorithms in Go
-- [pronist/ds](https://github.com/pronist/ds) - (CS; Algorithm) Data Structure in C
-- [pronist/information-procssing-algorithms](https://github.com/pronist/information-processing-algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms
-
-### Go
-
-- [pronist/go-techniques](https://github.com/pronist/go-techniques) - (Learning Go) with Go Techniques
-- [pronist/headfirstgo](https://github.com/pronist/headfirstgo) - (Learning Go) with Head First Go
-- [pronist/go-tour](https://github.com/pronist/go-tour) - (Learning Go) with Go Tutorials
-
-### Blockchain
-
-- [pronist/go-blockchain](https://github.com/pronist/go-blockchain) - (Learning Blockchain); Blockchain in Go
-- [pronist/solidity-essesntials](https://github.com/pronist/solidity-essesntials) - (Learning Blockchain; Solidity) with Solidity Essesntials
-
-## Lecture
+## PHP Lecture
 
 These are for making online **lectures**.
 
-### PHP
+<https://github.com/php-lecture> *― Codes for PHP Lectures (Inflearn; [@pronist](https://github.com/pronist))*
 
-- [pronist/php8-feature-examples](https://github.com/pronist/php8-feature-examples) - (Lecture for PHP) This Repo contains PHP 8 feature Examples.
-- [pronist/eclair](https://github.com/pronist/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework
-- [pronist/php7-web-board-example](https://github.com/pronist/php7-web-board-example) - (Lecture for PHP) PHP Blog Application Examples
-- [pronist/php7-lecture](https://github.com/pronist/php7-lecture) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec
-
-## Miscellaneous
-
-### Library
-
-- [pronist/history-router](https://github.com/pronist/history-router) - Router for history
-- [pronist/pager](https://github.com/pronist/pager) - Pagination (Pager) for PHP
-
-### Boilerplate Code
-
-- [pronist/nuxt-express-typescript-template](https://github.com/pronist/nuxt-express-typescript-template) - a Template for Nuxt.js with Express, Typescript
+- [php-lecture/php8-feature-examples](https://github.com/php-lecture/php8-feature-examples) - (Lecture for PHP) This Repo contains PHP 8 feature Examples.
+- [php-lecture/eclair](https://github.com/php-lecture/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework
+- [php-lecture/php7-web-board-example](https://github.com/php-lecture/php7-web-board-example) - (Lecture for PHP) PHP Blog Application Examples
+- [php-lecture/php7-lecture](https://github.com/php-lecture/php7-lecture) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec
