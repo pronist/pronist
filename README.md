@@ -1,6 +1,6 @@
 <div align=center>
 
-Hello, I am a Web and Blockchain developer who lives in Korea. \
+Hello, I am a **Web** & **Blockchain** Developer who lives in **Korea**. \
 See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITORY.md)**.
 
 [Blog](https://github.com/pronist) • [Essay](https://brunch.co.kr/@pronist)
@@ -14,8 +14,9 @@ See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITO
 </div>
 
 - I am Learning **Blockchain** such as Bitcoin, Ethereum.
-- My main language was **PHP**, but now, I am Learning **Go** for Blockchain.
+- My main interest programming language was **PHP**, but now, I am Learning **Golang** for Blockchain.
+- My hobbies include Front-End Development with **Javascript**, Playing 🎮🎹
 
-### Latest Blog Posts
+**📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
