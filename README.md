@@ -3,7 +3,7 @@
 Hello, I am a **Web** & **Blockchain** Developer who lives in **Korea**. \
 See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITORY.md)**.
 
-[Blog](https://github.com/pronist) • [Essay](https://brunch.co.kr/@pronist)
+[Blog](https://pronist.tistory.com) • [Essay](https://brunch.co.kr/@pronist)
 
 ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
