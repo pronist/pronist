@@ -18,4 +18,9 @@ See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITO
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [hELLO. 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/5)
+- [Go 언어로 블록체인 메인넷 만들기 - 거래#2](https://pronist.tistory.com/131)
+- [Go 언어로 블록체인 메인넷 만들기 - 키와 주소, ―지갑](https://pronist.tistory.com/130)
+- [Go 언어로 블록체인 메인넷 만들기 - 거래#1](https://pronist.tistory.com/129)
+- [Go 언어로 블록체인 메인넷 만들기 - 트랜잭션(Transaction)](https://pronist.tistory.com/128)
 <!-- BLOG-POST-LIST:END -->
