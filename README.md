@@ -19,7 +19,7 @@ See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITO
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Webpack 3 에서 Webpack 5 으로, ― 티도리 프레임워크](https://pronist.tistory.com/134)
+- [Webpack 3 에서 Webpack 5 으로 바꾸기 위해 해야 할 일들](https://pronist.tistory.com/134)
 - [암호화폐 트레이딩 봇을 만들었다 (feat. 업비트)](https://pronist.tistory.com/133)
 - [Go 언어로 블록체인 메인넷 만들기 - 디지털 서명(Signature)](https://pronist.tistory.com/132)
 - [hELLO. 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/5)
