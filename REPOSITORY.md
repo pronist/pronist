@@ -4,7 +4,7 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Table of Contents
 
-- [Misc.](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Misc.)
+- [Misc.](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Misc)
 - [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#study--research)
   - [Algorithm](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#algorithm)
   - [Go](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#go)
