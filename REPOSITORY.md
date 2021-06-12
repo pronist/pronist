@@ -25,7 +25,7 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ### Algorithm
 
-- [pronist/Algorithm](https://github.com/pronist/Algorithm) - (CS; Algorithm) Algorithms in Go (Archived)
+- [pronist/Algorithm](https://github.com/pronist/Algorithm) - (CS; Algorithm) Algorithms in Go
 - [pronist/DS](https://github.com/pronist/DS) - (CS; Algorithm) Data Structure in C (Archived)
 - [pronist/Information-Procssing-Algorithms](https://github.com/pronist/Information-Procssing-Algorithms) - [~2019] - (CS; Algorithm) Information Processing Algorithms (Archived)
 
@@ -46,9 +46,9 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 
 ### Tidory
 
-**Tidory** is a Tistory Skin Framework composed by [@pronist](https://github.com/pronist).
+**Tidory** is a Tistory Skin Framework
 
-<https://github.com/tidory> *― Tistory Skin Framework, Tidory (Composed by [@pronist](https://github.com/pronist)*
+<https://github.com/tidory> *― Tistory Skin Framework, Tidory*
 
 - [tidory/tidory](https://github.com/tidory/tidory) - a Template for Tidory framework
 - [tidory/tidory.com](https://github.com/tidory/tidory.com) - a Website for Tidory framework
@@ -56,7 +56,7 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 
 ### Tistory Project
 
-<https://github.com/tistory-project> *― Tistory Project, Composed by [@pronist](https://github.com/pronist)*
+<https://github.com/tistory-project> *― Tistory Project*
 
 #### Theme
 
@@ -77,7 +77,7 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 
 These are for making online **lectures**.
 
-<https://github.com/php-lecture> *― Codes for PHP Lectures (Inflearn; [@pronist](https://github.com/pronist))*
+<https://github.com/php-lecture> *― Codes for PHP Lectures*
 
 - [php-lecture/php8-feature-examples](https://github.com/php-lecture/php8-feature-examples) - (Lecture for PHP) This Repo contains PHP 8 feature Examples. (Archived)
 - [php-lecture/eclair](https://github.com/php-lecture/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework (Archived)
