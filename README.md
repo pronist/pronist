@@ -19,9 +19,9 @@ See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITO
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[Laravel] 라라벨 블레이드 템플릿 (보간법, 조건문, 반복문)](https://pronist.tistory.com/139)
 - [[Laravel] 라라벨 라우팅과 컨트롤러](https://pronist.tistory.com/138)
 - [[Laravel] 라라벨 개발환경 구축하기(feat. 홈스테드, 도커)](https://pronist.tistory.com/137)
 - [[Laravel] 라라벨 프레임워크 시작하기](https://pronist.tistory.com/136)
 - [개발자라면 자격증이 아닌 포트폴리오에 투자하라.](https://pronist.tistory.com/135)
-- [Webpack 3 에서 Webpack 5 으로 바꾸기 위해 해야 할 일들](https://pronist.tistory.com/134)
 <!-- BLOG-POST-LIST:END -->
