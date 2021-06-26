@@ -19,7 +19,7 @@ See my projects **[Here](https://github.com/pronist/pronist/blob/master/REPOSITO
 
 **📕 Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [나는 '한국식' 코딩 테스트가 싫어요.](https://pronist.tistory.com/140)
+- [나는 'K' 코딩 테스트가 싫어요.](https://pronist.tistory.com/140)
 - [[Laravel] 라라벨 블레이드 템플릿 (보간, 조건문, 반복문)](https://pronist.tistory.com/139)
 - [[Laravel] 라라벨 라우팅과 컨트롤러](https://pronist.tistory.com/138)
 - [[Laravel] 라라벨 개발환경 구축하기(feat. 홈스테드, 도커)](https://pronist.tistory.com/137)
