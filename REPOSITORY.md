@@ -19,7 +19,7 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Misc.
 
-- [pronist/upbit-trading-bot](https://github.com/pronist/upbit-trading-bot) - Cryptocurrency Exchange; Upbit Trading bot
+- [pronist/upbit-trading-bot](https://github.com/pronist/upbit-trading-bot) - Cryptocurrency Exchange; Upbit Trading bot (Archived)
 
 ## Study & Research
 
@@ -64,7 +64,7 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 
 #### API
 
-- [tistory-project/tistory-skin](https://github.com/tistory-project/tistory-skin) - Tistory Skin API for Javascript -- Unofficial (Archived)
+- [tistory-project/tistory-skin](https://github.com/tistory-project/tistory-skin) - Tistory Skin API for Javascript -- Unofficial
 - [tistory-project/tistory.js](https://github.com/tistory-project/tistory.js) - Tistory API for Javascript, Support Node.js, and Browser (Archived)
 - [tistory-project/tistory.php](https://github.com/tistory-project/tistory.php) - Tistory API for PHP (Archived)
 
