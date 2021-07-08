@@ -53,6 +53,7 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 - [tidory/tidory](https://github.com/tidory/tidory) - a Template for Tidory framework
 - [tidory/tidory.com](https://github.com/tidory/tidory.com) - a Website for Tidory framework
 - [tidory/cli](https://github.com/tidory/cli) - a CLI for Tidory framework
+- [tidory/tistory-skin](https://github.com/tidory/tistory-skin) - Tistory Skin API for Javascript -- Unofficial
 
 ### Tistory Project
 
@@ -64,7 +65,6 @@ Tistory is a serivce for blogging. Projects are related to it. These contain Fra
 
 #### API
 
-- [tistory-project/tistory-skin](https://github.com/tistory-project/tistory-skin) - Tistory Skin API for Javascript -- Unofficial
 - [tistory-project/tistory.js](https://github.com/tistory-project/tistory.js) - Tistory API for Javascript, Support Node.js, and Browser (Archived)
 - [tistory-project/tistory.php](https://github.com/tistory-project/tistory.php) - Tistory API for PHP (Archived)
 
@@ -79,7 +79,7 @@ These are for making online **lectures**.
 
 <https://github.com/php-lecture> *― Codes for PHP Lectures*
 
-- [php-lecture/php8-feature-examples](https://github.com/php-lecture/php8-feature-examples) - (Lecture for PHP) This Repo contains PHP 8 feature Examples. (Archived)
+- [php-lecture/php7](https://github.com/php-lecture/php7) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec (Archived)
 - [php-lecture/eclair](https://github.com/php-lecture/eclair) - (Lecture for PHP) Eclair is a Simple PHP micro framework (Archived)
-- [php-lecture/php7-web-board-example](https://github.com/php-lecture/php7-web-board-example) - (Lecture for PHP) PHP Blog Application Examples (Archived)
-- [php-lecture/php7-lecture](https://github.com/php-lecture/php7-lecture) - (Lecture for PHP) Example codes for PHP 7+ Programming.lec (Archived)
+- [php-lecture/php8](https://github.com/php-lecture/php8) - (Lecture for PHP) This Repo contains PHP 8 feature Examples. (Archived)
+- [php-lecture/board](https://github.com/php-lecture/board) - (Lecture for PHP) PHP Blog Application Examples (Archived)
