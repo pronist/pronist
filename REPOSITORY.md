@@ -19,7 +19,7 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Misc.
 
-- [pronist/upbit-trading-bot](https://github.com/pronist/upbit-trading-bot) - Cryptocurrency Exchange; Upbit Trading bot (Archived)
+- [pronist/trading-bot](https://github.com/pronist/trading-bot) - Cryptocurrency Exchange; Upbit Trading bot (Archived)
 
 ## Study & Research
 
