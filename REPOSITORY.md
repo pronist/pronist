@@ -12,9 +12,8 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Personal Projects & Study
 
-- [pronist/trading-bot](https://github.com/pronist/trading-bot) - Cryptocurrency Exchange; Upbit Trading bot (Archived)
 - [pronist/StudyBook](https://github.com/pronist/StudyBook) - StudyBook
-- [pronist/blockchain_go](https://github.com/pronist/blockchain_go) - (Learning Blockchain); Blockchain in Go
+- [pronist/upbit-trading-bot](https://github.com/pronist/upbit-trading-bot) - Cryptocurrency Exchange; Upbit Trading bot (Archived)
 
 ## Tistory
 
