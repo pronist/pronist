@@ -4,19 +4,15 @@ This contains my projects which are only **Public**. These are not include **Pri
 
 ## Table of Contents
 
-- [Misc.](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#Misc)
-- [Study & Research](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#study--research)
+- [Personal Projects & Study](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#personal-projects--study)
 - [Tistory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory)
   - [Tidory](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tidory)
   - [Tistory Project](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#tistory-project)
 - [PHP Lecture](https://github.com/pronist/pronist/blob/master/REPOSITORY.md#php-lecture)
 
-## Misc.
+## Personal Projects & Study
 
 - [pronist/trading-bot](https://github.com/pronist/trading-bot) - Cryptocurrency Exchange; Upbit Trading bot (Archived)
-
-## Study & Research
-
 - [pronist/StudyBook](https://github.com/pronist/StudyBook) - StudyBook
 - [pronist/blockchain_go](https://github.com/pronist/blockchain_go) - (Learning Blockchain); Blockchain in Go
 
